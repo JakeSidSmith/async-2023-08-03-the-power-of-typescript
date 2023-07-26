@@ -34,7 +34,7 @@ If you're viewing this on GitHub after the talk, checkout the code in the `/src`
 
 Yes, it's a legit quote. That's [insert famous programmer] in the helmet.
 
-(original image found at https://www.pinterest.co.uk/pin/755619643699505528/)
+Original image found at https://www.pinterest.co.uk/pin/755619643699505528/
 
 I chose this quote because it actually covers 2 important points:
 
@@ -42,5 +42,14 @@ I chose this quote because it actually covers 2 important points:
 2. Most people, when starting out with TypeScript, will get very annoyed with type errors and, not truly understanding how useful they are, will end up typing everything as "any" which will only cause them further struggles.
 
 Avoid "any" at all costs. 😉
+
+<details>
+  <summary>Click to see related extra meme</summary>
+
+![Knight wearing armor with an arrow through the tiny gap in his helmet labelled "as any"](/images/typescript-code.png)
+
+Image found at https://devrant.com/rants/3015646/i-dont-usually-post-memes-but-this-one-is-just-a-little-too-on-the-nose
+
+</details>
 
 </details>

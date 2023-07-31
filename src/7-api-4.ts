@@ -22,10 +22,10 @@ type ToGetter<T extends string> = T extends `${infer First}${infer Rest}`
 const toGetter = <T extends string>(value: T) =>
   `get${value.charAt(0).toUpperCase()}${value.slice(1)}` as ToGetter<T>;
 
-type UnionToIntersection<T> = (T extends any ? (k: T) => void : never) extends (
-  k: infer I
-) => void
-  ? I
+type UnionToIntersection<T> = (
+  T extends any ? (arg: T) => void : never
+) extends (arg: infer A) => void
+  ? A
   : never;
 
 // {} & ensures that the return type is an object

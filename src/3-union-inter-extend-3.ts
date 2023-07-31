@@ -10,6 +10,7 @@ interface Beaver {
   makesSound: 'I have no idea';
 }
 
+// never
 type Platypus = Duck & Beaver;
 
 const tellMeAbout = (animal: Platypus) => {

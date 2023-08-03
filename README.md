@@ -21,7 +21,7 @@ I'm a full stack TypeScript developer that's been working in the app development
 
 I have been using TypeScript for... since like version 2... _Google's release date_... maybe 7 years.
 
-I have been the director of BlinkOrb Ltd for just over a year now - we make apps and stuff, and are currently open to contracts.
+I have been the director of BlinkOrb Ltd for just over a year now - we make apps and stuff (web, mobile, and more), and are currently open to contracts.
 
 ## What is/are this talk/demos about?
 

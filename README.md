@@ -17,7 +17,7 @@ I am Jake. You'll find me all over the internet as Jake 'Sid' Smith.
 - https://linkedin.com/in/jakesidsmith
 - https://jakesidsmith.com
 
-I'm a full stack TypeScript developer that's been working in the app develop industry for about 10 years at this point... I think. Maybe more.
+I'm a full stack TypeScript developer that's been working in the app development industry for about 10 years at this point... I think. Maybe more.
 
 I have been using TypeScript for... since like version 2... _Google's release date_... maybe 7 years.
 

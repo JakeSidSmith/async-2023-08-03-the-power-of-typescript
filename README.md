@@ -6,7 +6,6 @@
 
 You will find this repo at [https://github.com/jakesidsmith/async-2023-08-03-the-power-of-typescript](https://github.com/jakesidsmith/async-2023-08-03-the-power-of-typescript), or you can scan the below QR code.
 
-
 ![QR Code link to repository](/images/qr-code.png)
 
 ## Who am i?

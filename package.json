@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakesidsmith/async-2023-08-04-the-power-of-typescript.git"
+    "url": "git+https://github.com/jakesidsmith/async-2023-08-03-the-power-of-typescript.git"
   },
   "keywords": [
     "async",
@@ -25,9 +25,9 @@
   "author": "Jake 'Sid' Smith",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jakesidsmith/async-2023-08-04-the-power-of-typescript/issues"
+    "url": "https://github.com/jakesidsmith/async-2023-08-03-the-power-of-typescript/issues"
   },
-  "homepage": "https://github.com/jakesidsmith/async-2023-08-04-the-power-of-typescript#readme",
+  "homepage": "https://github.com/jakesidsmith/async-2023-08-03-the-power-of-typescript#readme",
   "dependencies": {
     "typescript": "^5.1.6"
   },

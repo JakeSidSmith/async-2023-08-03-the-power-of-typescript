@@ -8,7 +8,7 @@ You will find this repo at [https://github.com/jakesidsmith/async-2023-08-03-the
 
 ![QR Code link to repository](/images/qr-code.png)
 
-## Who am i?
+## Who am I?
 
 I am Jake. You'll find me all over the internet as Jake 'Sid' Smith.
 

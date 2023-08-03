@@ -2,6 +2,13 @@
 
 **Various demos to show the true power of TypeScript (from [Async](https://asyncjs.com)'s 3rd August 2023 event)**
 
+## Checkout the repo
+
+You will find this repo at [https://github.com/jakesidsmith/async-2023-08-03-the-power-of-typescript](https://github.com/jakesidsmith/async-2023-08-03-the-power-of-typescript), or you can scan the below QR code.
+
+
+![QR Code link to repository](/images/qr-code.png)
+
 ## Who am i?
 
 I am Jake. You'll find me all over the internet as Jake 'Sid' Smith.
